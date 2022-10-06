@@ -1,0 +1,4 @@
+Git clone
+GIt add
+GIt commut
+Git push
