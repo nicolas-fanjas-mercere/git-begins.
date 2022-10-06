@@ -2,3 +2,4 @@ Git clone
 GIt add
 GIt commut
 Git push
+git pull
