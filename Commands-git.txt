@@ -3,3 +3,5 @@ GIt add
 GIt commut
 Git push
 git pull
+git branch new_branch
+git checkout "insertbranche"
